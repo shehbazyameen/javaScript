@@ -1,5 +1,5 @@
 // The const keyword was introduced in ES6 (2015).
-// const cannot be Redeclared.
+// const cannot be Re declared.
 // const cannot be Reassigned.
 // const have Block Scope.
 
