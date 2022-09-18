@@ -15,9 +15,9 @@ if (percentage >= 80) {
 } else if (percentage >= 59) {
   console.log(percentage + "you Grade is C");
 } else if (percentage >= 49) {
-  console.log(percentage + "you Grade is A");
+  console.log(percentage + "you Grade is D");
 } else if (percentage >= 39) {
-  console.log(percentage + "you Grade is A");
+  console.log(percentage + "you Grade is E");
 } else {
   console.log("Fail");
 }
