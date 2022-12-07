@@ -1,4 +1,5 @@
 //for loop in array
+//loop means iteration
 
 // programme 1
 
@@ -15,5 +16,4 @@ let fruits = ["apple", "mango", "grapes", "banana"];
 for (let i = 0; fruits.length > i; i++) {
   newArray.push(fruits[i]);
 }
-
 console.log(newArray);
