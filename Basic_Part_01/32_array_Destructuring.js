@@ -25,4 +25,4 @@ console.log("method 3", mynNewRemainingValues);
 //destructuring using slice method 4
 const arr4 = ["value 1", "value 2", "value 3"];
 let myNewArray = arr4.slice(2);
-console.log('slice',myNewArray)
+console.log("slice", myNewArray);
