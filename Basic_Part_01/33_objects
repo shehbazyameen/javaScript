@@ -9,11 +9,11 @@
 //how to create objects or object literal
 const obj = { name: "shehbaz", age: 22, hobbies: ["sleeping", "music"] };
 //both objects are same
-const objAsStringKey = {
-  name: "shehbaz",
-  age: 22,
-  hobbies: ["sleeping", "music"],
-};
+// const objAsStringKey = {
+//   "name": "shehbaz",
+//   "age": 22,
+//   "hobbies": ["sleeping", "music"],
+// };
 
 console.log(obj.name);
 console.log(obj.age);
