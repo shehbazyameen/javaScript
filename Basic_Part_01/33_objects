@@ -1,0 +1,13 @@
+// In JavaScript, almost "everything" is an object.
+//object is reference type like array
+//array are good but not sufficient
+//for real world data
+//object store key values pairs
+//object without index
+
+//how to create objects or object literal
+const obj = { name: "shehbaz", age: 22, hobbies: ["sleeping", "music"] };
+console.log(obj.name);
+console.log(obj.age);
+console.log(obj.hobbies);
+console.log(obj);
