@@ -26,3 +26,13 @@ console.log("method 3", mynNewRemainingValues);
 const arr4 = ["value 1", "value 2", "value 3"];
 let myNewArray = arr4.slice(2);
 console.log("slice", myNewArray);
+
+//nested destructuring very important
+const users = [
+  { name: "shehbaz", age: 22, cast: "malik" },
+  { name: "sameer", age: 20, cast: "pujabi" },
+  { name: "Saeed", age: 40, cast: "gull" },
+];
+
+const [{ name: changeKeyName }, , { age }] = users;
+console.log(changeKeyName, age);
