@@ -10,3 +10,4 @@ function MyFnc2(callBack) {
 }
 
 MyFnc2(MyFnc1);
+
