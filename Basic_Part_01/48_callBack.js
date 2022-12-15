@@ -1,4 +1,5 @@
 //callBack functions
+//call back ko hiorder Fnc bhi boltay
 
 function MyFnc1(name) {
   console.log("call as a callBack Fnc");
@@ -10,4 +11,3 @@ function MyFnc2(callBack) {
 }
 
 MyFnc2(MyFnc1);
-
