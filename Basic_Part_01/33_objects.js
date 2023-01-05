@@ -3,10 +3,13 @@
 //array are good but not sufficient
 //for real world data
 //object store key values pairs
+//Key always on string OR Symbols
+//agar check karna ho to typeOf operator say check karta ha 
 //object without index
 //javaScript may jo key value dono string may hoti ha
 
 //how to create objects or object literal
+
 const obj = { name: "shehbaz", age: 22, hobbies: ["sleeping", "music"] };
 //both objects are same
 // const objAsStringKey = {
